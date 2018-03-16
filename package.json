@@ -1,0 +1,19 @@
+{
+  "name": "search-app",
+  "version": "1.0.0",
+  "description": "this is a simple search app for your desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehudaNahon/search-app.git"
+  },
+  "author": "yehuda nahon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehudaNahon/search-app/issues"
+  },
+  "homepage": "https://github.com/yehudaNahon/search-app#readme"
+}
